@@ -2,9 +2,9 @@
 
 This project was developed in the class "An Introduction to Mobile Robotics" at Federal University of Alagoas.
 The goal of the system is to set:
-*an initial frame location
-*a final frame location
-*and a final orientation (angles)
+* an initial frame location
+* a final frame location
+* and a final orientation (angles)
 
 And the output expected is that the robot reaches the final location and pose following the established path (which is a simple straight line)
 
