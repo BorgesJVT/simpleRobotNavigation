@@ -1,0 +1,1026 @@
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.37
+       error: -50.3696
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.37
+       error: -50.3696
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.675
+       error: -51.6754
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.241
+       error: -50.2413
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 129.472
+       error: -49.4725
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 132.455
+       error: -52.4552
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 133.091
+       error: -53.0909
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 132.184
+       error: -52.1844
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 129.289
+       error: -49.2894
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 132.723
+       error: -52.7234
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 129.337
+       error: -49.3371
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.156
+       error: -50.156
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.37
+       error: -50.3696
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.314
+       error: -50.3141
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.156
+       error: -50.156
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 130.187
+       error: -50.1873
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 132.723
+       error: -52.7234
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 131.186
+       error: -51.1859
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 126.87
+       error: -46.8699
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 124.798
+       error: -44.7983
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 123.949
+       error: -43.9485
+       Vr: -22
+       Vl: 22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 116.639
+       error: -36.6387
+       Vr: -20
+       Vl: 20
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 111.57
+       error: -31.57
+       Vr: -19
+       Vl: 19
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 106.213
+       error: -26.2129
+       Vr: -17
+       Vl: 17
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 104.19
+       error: -24.1898
+       Vr: -17
+       Vl: 17
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 107.884
+       error: -27.8839
+       Vr: -18
+       Vl: 18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 105.376
+       error: -25.3763
+       Vr: -17
+       Vl: 17
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 98.105
+       error: -18.105
+       Vr: -15
+       Vl: 15
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 95.3863
+       error: -15.3863
+       Vr: -14
+       Vl: 14
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 92.7393
+       error: -12.7393
+       Vr: -13
+       Vl: 13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 90
+       error: -10
+       Vr: -13
+       Vl: 13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 86.5948
+       error: -6.59476
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 84.5597
+       error: -4.55967
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 79.7504
+       error: 0.24958
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 79.7504
+       error: 0.24958
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 73.4671
+       error: 6.53291
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 68.9077
+       error: 11.0923
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 65.4387
+       error: 14.5613
+       Vr: 14
+       Vl: -14
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 57.5313
+       error: 22.4687
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 51.3402
+       error: 28.6598
+       Vr: 18
+       Vl: -18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 56.7251
+       error: 23.2749
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 55.3048
+       error: 24.6952
+       Vr: 17
+       Vl: -17
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 51.5819
+       error: 28.4181
+       Vr: 18
+       Vl: -18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 51.5819
+       error: 28.4181
+       Vr: 18
+       Vl: -18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 52.5238
+       error: 27.4762
+       Vr: 18
+       Vl: -18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 52.5238
+       error: 27.4762
+       Vr: 18
+       Vl: -18
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 48.5035
+       error: 31.4965
+       Vr: 19
+       Vl: -19
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 88.2759
+       error: -8.27589
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 88.2759
+       error: -8.27589
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 89.1824
+       error: -9.18244
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 56.7683
+       error: 23.2317
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 56.7683
+       error: 23.2317
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 57.0325
+       error: 22.9675
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 57.5146
+       error: 22.4854
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 60.0634
+       error: 19.9366
+       Vr: 15
+       Vl: -15
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 60.6533
+       error: 19.3467
+       Vr: 15
+       Vl: -15
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 61.2817
+       error: 18.7183
+       Vr: 15
+       Vl: -15
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 61.4905
+       error: 18.5095
+       Vr: 15
+       Vl: -15
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 65.9929
+       error: 14.0071
+       Vr: 14
+       Vl: -14
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 59.311
+       error: 20.689
+       Vr: 16
+       Vl: -16
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 67.3801
+       error: 12.6199
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 67.9321
+       error: 12.0679
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 68.1693
+       error: 11.8307
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 72.8755
+       error: 7.12449
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 72.8755
+       error: 7.12449
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.2555
+       error: 9.74451
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9369
+       error: 10.0631
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.5195
+       error: 8.48053
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 0
+       error: 80
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9903
+       error: 10.0097
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0089
+       error: 10.9911
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.2539
+       error: 9.74609
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.5195
+       error: 8.48053
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9903
+       error: 10.0097
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9369
+       error: 10.0631
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 72.4744
+       error: 7.52557
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.2539
+       error: 9.74609
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0089
+       error: 10.9911
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 74.518
+       error: 5.48197
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.8895
+       error: 8.11046
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 74.8989
+       error: 5.1011
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.6175
+       error: 8.38253
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0089
+       error: 10.9911
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.3096
+       error: 9.69044
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -1.50743
+       error: 81.5074
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: -3.14497
+       error: 83.145
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.349
+       error: 9.65099
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9962
+       error: 10.0038
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 72.8755
+       error: 7.12449
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 5.19443
+       error: 74.8056
+       Vr: 22
+       Vl: -22
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.0513
+       error: 9.94875
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.8293
+       error: 10.1707
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.0666
+       error: 10.9334
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.0513
+       error: 9.94875
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.8895
+       error: 8.11046
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 69.9962
+       error: 10.0038
+       Vr: 13
+       Vl: -13
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 71.9388
+       error: 8.06123
+       Vr: 0
+       Vl: 0
+-------------------------- 
+       angle_ref.: 80
+       angle_meas.: 70.2555
+       error: 9.74451
+       Vr: 0
+       Vl: 0
